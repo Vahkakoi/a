@@ -1,0 +1,3 @@
+[submodule "laba"]
+	path = laba
+	url = https://github.com/Vahkakoi/laba.git
